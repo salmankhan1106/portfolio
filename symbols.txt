@@ -1,0 +1,55 @@
+Google (Alphabet Inc.):
+    GOOGL (Class A shares)
+    GOOG (Class C shares)
+
+Amazon:
+    AMZN
+
+Tesla:
+    TSLA
+
+Microsoft:
+    MSFT
+
+Apple:
+    AAPL
+
+Facebook (Meta Platforms Inc.):
+    META (previously FB)
+
+Netflix:
+    NFLX
+
+NVIDIA:
+    NVDA
+
+Intel:
+    INTC
+
+IBM:
+    IBM
+    
+Salesforce:
+    CRM
+
+Adobe:
+    ADBE
+
+Uber:
+    UBER
+
+Twitter:
+    X (previously TWTR)
+
+PayPal:
+    PYPL
+
+Qualcomm:
+    QCOM
+
+Shopify:
+    SHOP
+
+Disney:
+    DIS
+
